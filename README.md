@@ -1,10 +1,10 @@
-My data portfolio containing work on Microsoft Excel, Tableau and R Studio
+My data portfolio containing data analysis work on Microsoft Excel, Tableau and R Studio.
 
-##*Topics covered in this Bootcamp*
--Microsoft Excel
-*Power BI
-+Tableau
-*SQL
-+R Studio
--Azure
-*Python
+## *Topics covered in Bootcamp*
+- Microsoft Excel
+- Power BI
+- Tableau
+- SQL
+- R Studio
+- Azure
+- Python
